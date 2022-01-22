@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/costsaver-website-React/static/css/main.aad03c95.css",
+    "main.js": "/costsaver-website-React/static/js/main.68510d2b.js",
+    "static/js/529.7b7e4ccf.chunk.js": "/costsaver-website-React/static/js/529.7b7e4ccf.chunk.js",
+    "index.html": "/costsaver-website-React/index.html",
+    "main.aad03c95.css.map": "/costsaver-website-React/static/css/main.aad03c95.css.map",
+    "main.68510d2b.js.map": "/costsaver-website-React/static/js/main.68510d2b.js.map",
+    "529.7b7e4ccf.chunk.js.map": "/costsaver-website-React/static/js/529.7b7e4ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad03c95.css",
+    "static/js/main.68510d2b.js"
+  ]
+}
